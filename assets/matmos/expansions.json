@@ -1,15 +1,14 @@
 {
-	"expansions" : [
-		{
-			"uniquename" : "makamys.zen.atmospheres",
-			"friendlyname" : "Zen 2020: Atmospheres",
-			"pointer" : "expansions/atmospheres_database.json",
-			"volumemodifier" : 0.3
+	"expansions": [{
+			"uniquename": "acgaming.zentfc.atmospheres",
+			"friendlyname": "Zen 2020 TFC: Atmospheres",
+			"pointer": "expansions/atmospheres_database.json",
+			"volumemodifier": 0.3
 		},
-    {
-      "uniquename" : "makamys.zen.sfx",
-      "friendlyname" : "Zen 2020: Sound effects",
-      "pointer" : "expansions/sfx_database.json"
-    }
+		{
+			"uniquename": "acgaming.zentfc.sfx",
+			"friendlyname": "Zen 2020 TFC: Sound effects",
+			"pointer": "expansions/sfx_database.json"
+		}
 	]
 }

@@ -1,12 +1,11 @@
 {
-	"type"	: "pack_matmos",
-	"engineversion"	: 35,
-	"metadata"	: {
-		"name"	     : "MAtmos 2020 Zen",
-		"author"	   : "makamys",
-		"website"	   : "https://github.com/makamys/MAtmos"
+	"type": "pack_matmos",
+	"engineversion": 35,
+	"metadata": {
+		"name": "MAtmos 2020 Zen TFC",
+		"author": "ACGaming",
+		"website": "https://github.com/ACGaming/MAtmos-2020-Zen-TFC"
 	},
-  "uniquename" : "makamys.zen",
-  "version"    : "1.2.2",
-  "updatejson": "https://raw.githubusercontent.com/makamys/MAtmos/master/updatejson/update-mat_zen.json"
+	"uniquename": "acgaming.zentfc",
+	"version": "1.0.0"
 }
