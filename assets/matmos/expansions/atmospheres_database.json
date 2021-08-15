@@ -2517,7 +2517,7 @@
 					"index": "tfc:grass/travertine"
 				},
 				{
-					"sheet": "scan_small_p1k_p1k",
+					"sheet": "scan_small_p1k",
 					"index": "tfc:grass/wackestone"
 				}
 			]
@@ -2787,7 +2787,7 @@
 					"index": "tfc:grass/travertine"
 				},
 				{
-					"sheet": "scan_large_p1k_p1k",
+					"sheet": "scan_large_p1k",
 					"index": "tfc:grass/wackestone"
 				}
 			]

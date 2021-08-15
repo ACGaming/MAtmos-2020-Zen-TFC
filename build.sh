@@ -5,7 +5,7 @@
 # Building from the cloned repo won't work because the assets/minecraft/sounds
 # folder is missing. You can copy it from one of the releases.
 
-pack_name=mat_zen
+pack_name=mat_zentfc
 engine_version=`grep -oP "\"engineversion.*?\K[1-9]+" assets/matmos/mat_pack.json`
 pack_version=`grep -oP "\"version.*?\K[1-9\.]+" assets/matmos/mat_pack.json`
 
